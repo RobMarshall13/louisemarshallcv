@@ -102,7 +102,7 @@ header{
 
 
 .logo {
-    background: url("/images/lou.jpg");
+    background: url("images/lou.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;

@@ -44,7 +44,9 @@
 
 
  /*------------------------------------------------speacial padding margins text etc*/
-
+#titleCont{
+    height: 100%;
+}
 
  h1,
  h2,

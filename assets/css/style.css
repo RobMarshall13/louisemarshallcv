@@ -43,6 +43,16 @@
   }
 
 
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    background-color: #525252;
+    color: #555555;
+}
+
+
+
  /*------------------------------------------------speacial padding margins text etc*/
 #titleCont{
     height: 100%;
@@ -104,7 +114,7 @@ header{
 
 
 .logo {
-    /*background: url("images/lou.jpg");*/
+    background: url("lou.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -184,7 +194,7 @@ header{
              background-color: #525252;
              color: #fafafa;
              min-height: 120px;
-             margin: 0;
+
          }
 
 
@@ -381,7 +391,9 @@ header{
      color: #fafafa;
  }
 
-
+.tests{
+    margin-bottom: 30px;
+}
 
  /*-----------------------------------------------media queries*/
 

@@ -190,10 +190,16 @@ header{
 
     /*--------------------------footer*/
 
+    .wrapper{
+        height:100%;
+        background-color: transparent;
+    }
+
     footer{
              background-color: #525252;
              color: #fafafa;
              min-height: 120px;
+             margin-top: -50px;
 
          }
 
@@ -240,6 +246,7 @@ header{
 
          #footer-details{
              margin: 20px;
+             margin-top: 70px;
          }
 
 
@@ -418,3 +425,10 @@ header{
 
 }
 
+.reason{
+    margin-bottom: 20px;
+}
+
+.reference{
+    margin-top: 30px;
+}
